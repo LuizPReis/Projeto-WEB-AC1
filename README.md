@@ -1,3 +1,6 @@
+![image](https://github.com/LuizPReis/Projeto-WEB-AC1/assets/90226941/5ff9febf-9810-45c8-83d8-f680236d62cb)
+
+
 # ProjetoL
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.4.
